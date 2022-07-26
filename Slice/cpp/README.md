@@ -1,4 +1,4 @@
-# K-V SkipList的string实现
+# Slice实现
 
 使用方式：
 > 1.编译成静态库,库文件存在lib目录下
